@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4F8DF7"/><stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="doc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#E4ECFB"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(16,8) scale(0.2826)">
+    <rect x="0" y="0" width="512" height="512" rx="112" fill="url(#bg)"/>
+    <path d="M134 76h142l82 82v230c0 11-9 20-20 20H134c-11 0-20-9-20-20V96c0-11 9-20 20-20z" fill="url(#doc)"/>
+    <path d="M276 76l82 82h-74c-4.4 0-8-3.6-8-8V76z" fill="#AFC4EC"/>
+    <circle cx="256" cy="180" r="52" fill="#1D4ED8"/>
+    <text x="256" y="203" font-family="DejaVu Sans, Arial, sans-serif" font-size="64" font-weight="bold" fill="#FFFFFF" text-anchor="middle">W</text>
+    <rect x="150" y="262" width="140" height="12" rx="6" fill="#9DB4E0"/>
+    <rect x="150" y="294" width="176" height="12" rx="6" fill="#9DB4E0"/>
+    <rect x="150" y="326" width="110" height="12" rx="6" fill="#9DB4E0"/>
+  </g>
+  <text x="176" y="88" font-family="DejaVu Sans, Arial, sans-serif" font-size="64" font-weight="bold" fill="#1D4ED8">WordCraft</text>
+  <text x="178" y="126" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" fill="#5B6B8C">Full-featured word processor</text>
+</svg>
