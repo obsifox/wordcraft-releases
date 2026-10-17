@@ -63,6 +63,12 @@ sudo dpkg -i wordcraft_<ver>_amd64.deb
 - **Autosave**, recent documents, dark mode, focus mode, zoom 50–200 %
 - **8 languages**: English (default) · فارسی · العربية · 中文 · Español · Français · Deutsch · Русский — with automatic RTL support
 
+## 🖼 Screenshots
+
+![WordCraft — ribbon UI](docs/screenshot-home.png)
+
+*WordCraft running in a browser / Electron — light theme, English (default). Also available: dark mode, RTL (Persian/Arabic) and 5 more interface languages.*
+
 ## 🚀 Releases feed
 
 New release is published automatically on every update pushed to the source repository.
